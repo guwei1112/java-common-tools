@@ -6,7 +6,7 @@
     <groupId>cn.java.common.tools</groupId>
     <version>1.0-SNAPSHOT</version>
 
-    <modelVersion>1.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
 
     <name>oa-plugin-impl</name>
     <packaging>jar</packaging>
